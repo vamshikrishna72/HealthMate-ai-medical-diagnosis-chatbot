@@ -50,6 +50,7 @@
 5. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
+   python.exe -m pip install --upgrade pip
    ```
 
 6. **Set Up Environment Variables:**
