@@ -4,9 +4,7 @@
 - It can analyze patient-reported symptoms, offer preliminary diagnoses, suggest possible conditions, and provide tailored health recommendations.
 - Designed to be intuitive and responsive, the chatbot is ideal for guiding users toward informed medical decisions and identifying potential health trends.
 
-## 🎥 Demo
 
-**Watch the live demo of the project:** [Demo Video](https://drive.google.com/file/d/1jI1xyMUKTUiRbevUvRLO4PouxmyshorV/view?usp=drive_link)
 
 ## 🌟 Features
 
@@ -26,7 +24,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/rakheshkrishna2005/HealthMate.git
+   git clone https://github.com/Saifshaikh0786/HealthMate-ai-medical-diagnosis-chatbot.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -70,12 +68,4 @@
 
 ## 🌐 Web Page
 
-![app](https://github.com/rakheshkrishna2005/HealthMate/blob/main/screenshots/app.png)
-![irrelevant query](https://github.com/rakheshkrishna2005/HealthMate/blob/main/screenshots/query.png)
-
-## 📚 Additional Resources
-
-- [dotenv Documentation](https://saurabh-kumar.com/python-dotenv/)
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [Gemini 1.5 Pro Model Documentation](https://cloud.google.com/generative-ai/)
-- [Google Generative AI SDK Documentation](https://developers.generativeai.google)
+   deoployement phase
