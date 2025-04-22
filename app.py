@@ -4,7 +4,7 @@ import PyPDF2
 from io import BytesIO
 
 # Configure API Key
-api_key = "AIzaSyCDnbHdn81MxJF3N42dRzbcv5OjFEhSNds"
+api_key = "AIzaSyDZ7RfQVeokbqHyp9YE5odUL_bJMa4jVHA"
 genai.configure(api_key=api_key)
 
 # Streamlit Page Config
